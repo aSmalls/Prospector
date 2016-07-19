@@ -1,3 +1,2 @@
-# Bartok
-Gibson's Bartok
-
+# Prospector
+Gibson's Prospector Solitaire
